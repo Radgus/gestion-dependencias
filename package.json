@@ -1,7 +1,7 @@
 {
   "name": "random-name-by-radgus",
   "version": "1.0.0",
-  "description": "random de mensajes",
+  "description": "random name",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
